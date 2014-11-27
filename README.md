@@ -1,4 +1,4 @@
 test_repository
 ===============
-
-My first repositorty 
+My name is jimmy, jimmy for trad, 
+My first repository 
